@@ -1,0 +1,2 @@
+Color Detection Using OpenCV
+Developed a real-time color detection system using OpenCV and Python. The project captures live video or processes images to detect and identify colors in various objects. It utilizes image processing techniques such as color space conversion, thresholding, and contour detection to accurately extract and display color information. Applications include object tracking, color-based sorting, and image segmentation for AI-driven tasks.
